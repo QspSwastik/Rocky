@@ -1,0 +1,8 @@
+url = https://demo.actitime.com
+
+usernameLocator=username
+passwordLocator= pwd
+loginLocator=loginButton
+
+username=admin
+password= manager
